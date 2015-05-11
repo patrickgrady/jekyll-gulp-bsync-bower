@@ -4,6 +4,7 @@ A project starter kit for a Jekyll site using Gulp, Node-Sass, BrowserSync, and 
 Streamline your workflow with super-fast compiling, Sass in the web inspector, minified + autoprefixed CSS output, and live auto-updating everything across multiple devices — all from a single terminal command!
 
 The following packages and plugins make it happen:
+* [Jekyll](http://jekyllrb.com/): A static site generator and blogging platform with github-pages integration.
 * [Node-Sass](https://github.com/sass/node-sass): Agnostic Sass!
 * [BrowserSync](http://www.browsersync.io/): For auto-updating multi-device magic.
 * [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md): A super flexible and customizable taskrunner.
