@@ -46,7 +46,7 @@ A single word on the command line starts the build system and watches for change
 gulp
 ~~~
 
-Note: If you're having trouble you may need to install these globally.
+Note: If you're having trouble you may need to install these packages globally.
 ~~~
 npm install gulp -g
 npm install browser-sync -g
