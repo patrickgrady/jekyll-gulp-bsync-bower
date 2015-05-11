@@ -12,9 +12,9 @@ The following packages and plugins make it happen:
 * [gulp-sass](https://www.npmjs.com/package/gulp-sass): So Gulp can swallow Node-flavored Sass.
 * [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps): Inspect Element: See Sass.
 * [Bower](http://bower.io/): A handy package manager.
-* [Modular Scale](https://github.com/modularscale/modularscale-sass)
-* [Breakpoint-Sass](https://github.com/at-import/breakpoint)
-* [Susy](https://github.com/ericam/susy/).
+* [Modular Scale](https://github.com/modularscale/modularscale-sass): An awesome math-based approach for creating typographic harmony.
+* [Breakpoint-Sass](https://github.com/at-import/breakpoint): The best breakpoints in the biz.
+* [Susy](https://github.com/ericam/susy/): An unopinionated grid utility.
 
 ##To Get Started
 First, if you haven't done so already, install [Node JS](https://nodejs.org/) and [NPM](http://blog.npmjs.org/post/85484771375/how-to-install-npm). Homebrew makes this very easy, just type the following commands and you'll be good to go.
