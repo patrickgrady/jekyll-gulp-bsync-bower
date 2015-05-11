@@ -40,7 +40,7 @@ npm install
 bower install
 ~~~
 
-####Sweet, Sweet Automation
+####Sweet, Sweet Automation...
 A single word on the command line starts the build system and watches for changes.
 ~~~
 gulp
@@ -52,7 +52,3 @@ npm install gulp -g
 npm install browser-sync -g
 npm install bower -g
 ~~~
-
-
-
-
