@@ -5,7 +5,7 @@ Streamline your workflow with super-fast compiling, Sass in the web inspector, m
 
 The following packages and plugins make it happen:
 * [Node-Sass](https://github.com/sass/node-sass): Agnostic Sass!
-* [BrowserSync](http://www.browsersync.io/): Auto-updating multi-device magic.
+* [BrowserSync](http://www.browsersync.io/): For auto-updating multi-device magic.
 * [Gulp](https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md): A super flexible and customizable taskrunner.
 * [gulp-autoprefixer](https://www.npmjs.com/package/gulp-autoprefixer): Auto-prefixes CSS so you don't have to.
 * [gulp-rename](https://www.npmjs.com/package/gulp-rename): Pretty self-explanatory.
