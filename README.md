@@ -11,7 +11,7 @@ The following packages and plugins make it happen:
 * [gulp-rename](https://www.npmjs.com/package/gulp-rename): Pretty self-explanatory.
 * [gulp-sass](https://www.npmjs.com/package/gulp-sass): So Gulp can swallow Node-flavored Sass.
 * [gulp-sourcemaps](https://www.npmjs.com/package/gulp-sourcemaps): Inspect Element: See Sass.
-* [Bower](http://bower.io/): A handy package manager.
+* [Bower](http://bower.io/): A handy node-based package manager.
 * [Modular Scale](https://github.com/modularscale/modularscale-sass): An awesome math-based approach for creating typographic harmony.
 * [Breakpoint-Sass](https://github.com/at-import/breakpoint): The best breakpoints in the biz.
 * [Susy](https://github.com/ericam/susy/): An unopinionated grid utility.
