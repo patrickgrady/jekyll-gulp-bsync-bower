@@ -1,0 +1,27 @@
+{
+  "name": "jekyll-gulp-bsync-bower",
+  "version": "2.0.0",
+  "private": "true",
+  "description": "Starter kit for projects using jekyll, gulp, and browser-sync, and sass plugins installed with bower",
+  "author": "Patrick Grady <mail@pgrady.com>",
+  "license": "MIT",
+  "ignore": [
+    "node_modules",
+    "assets/packages"
+  ],
+  "keywords": [
+    "jekyll",
+    "gulp",
+    "browser-sync",
+    "node-sass",
+    "style guide",
+    "modular-scale",
+    "breakpoint-sass",
+    "susy"
+  ],
+  "devDependencies": {
+    "breakpoint-sass": "~2.5.0",
+    "susy": "~2.2.3",
+    "modular-scale": "~2.0.7"
+  }
+}

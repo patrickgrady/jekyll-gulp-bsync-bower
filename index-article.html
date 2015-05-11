@@ -1,0 +1,14 @@
+---
+layout: default
+title: article index
+permalink: /article/index.html
+---
+
+<ul class="postList">
+  {% for post in site.categories.article %}
+    <li>
+      <h6 class="meta date">{{ post.date | date: "%b %d, %Y" }} | <a href="{{ site.baseurl }}/{{ post.categories }}/">{{ post.categories }}</a></h6>
+      <h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+    </li>
+  {% endfor %}
+</ul>

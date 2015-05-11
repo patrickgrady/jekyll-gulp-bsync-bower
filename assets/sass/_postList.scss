@@ -1,0 +1,13 @@
+/*!
+ * @file (SMACSS module)
+ * Defines postList Component
+ */
+
+.postList {
+  padding-left: 0;
+ }
+
+.postList li {
+  list-style: none;
+  color: green;
+}

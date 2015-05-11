@@ -1,0 +1,85 @@
+html {
+  background-color: $background-color;
+  color: $text-color;
+  font-family: $base-font-family;
+  font-size: ms(0);
+  line-height: ms(4);
+  @include breakpoint(30em){
+    font-size: ms(1);
+  }
+  @include breakpoint(60em){
+    font-size: ms(2);
+  }
+}
+
+body {
+  @include container(90%);
+  @include breakpoint(30em){
+    @include container(80%);
+  }
+  @include breakpoint(45em){
+    @include container(70%);
+  }
+  @include breakpoint(60em){
+    @include container(60%);
+  }
+}
+
+a {
+  color: $active-color;
+  &:hover { color: $active-hover-color; }
+}
+
+h1, h2, h3, h4, h5, h6 {
+  line-height: ms(1);
+  margin: ms(0) 0 ms(-4) 0;
+}
+
+h1 {
+  font-size: ms(4);
+}
+
+h2 {
+  font-size: ms(3);
+}
+
+h3 {
+  font-size: ms(2);
+}
+
+h4 {
+  font-size: ms(1);
+}
+
+h5 {
+  font-size: ms(0);
+}
+
+h6 {
+  font-size: ms(-1);
+}
+
+p {
+  font-size: ms(0);
+  margin: ms(0) 0;
+}
+
+img {
+  width: 100%;
+}
+
+section {
+  margin: ms(4) 0;
+}
+
+header, footer {
+  margin: ms(4) 0;
+}
+
+ul {
+  padding-left: 1.125em;
+}
+
+ol {
+  padding-left: 1.5em;
+}
