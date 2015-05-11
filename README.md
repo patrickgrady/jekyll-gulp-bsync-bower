@@ -17,19 +17,19 @@ The following packages and plugins make it happen:
 * [Susy](https://github.com/ericam/susy/).
 
 ##To Get Started
-First install [Node JS](https://nodejs.org/) and [NPM](http://blog.npmjs.org/post/85484771375/how-to-install-npm). Homebrew makes this very easy, just type the following commands and you'll be good to go.
+First, if you haven't done so already, install [Node JS](https://nodejs.org/) and [NPM](http://blog.npmjs.org/post/85484771375/how-to-install-npm). Homebrew makes this very easy, just type the following commands and you'll be good to go.
 ~~~
 brew update
 brew doctor
 brew install node
 ~~~
 
-Clone the starter kit repository:
+Next, clone the starter kit repository:
 ~~~
 git clone git@github.com:patrickgrady/jekyll-gulp-bsync-bower.git
 ~~~
 
-Navigate to the project folder:
+Then navigate to the project folder:
 ~~~
 cd into/the/repository
 ~~~
@@ -46,12 +46,11 @@ A single word on the command line starts the build system and watches for change
 gulp
 ~~~
 
-######Note
-If you're having trouble try installing these globally:
+Note: If you're having trouble you may need to install these globally.
 ~~~
-* npm install gulp -g
-* npm install browser-sync -g
-* npm install bower -g
+npm install gulp -g
+npm install browser-sync -g
+npm install bower -g
 ~~~
 
 
